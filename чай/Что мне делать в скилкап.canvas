@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"324bd23f55823851","type":"text","text":"Нужно придумать программу для стажеров и сотрудников ","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"3f4e41b5d8a8eeb2","type":"text","text":"Для стажёров: всё к аттестации и адаптации","x":-250,"y":80,"width":250,"height":60},
+		{"id":"0f59134631701f3a","type":"text","text":"Для сотрудников: дег данные, разборы новых чаёв, новости","x":40,"y":80,"width":250,"height":60},
+		{"id":"0a860c6fb8eeb5b5","type":"text","text":"Система лояльности","x":-414,"y":360,"width":250,"height":60},
+		{"id":"6f464367ede22e20","type":"text","text":"Хост: что говорить по телефону","x":-414,"y":200,"width":250,"height":60},
+		{"id":"2465942633023daf","type":"text","text":"Сортность чаёв\n","x":-414,"y":440,"width":250,"height":60},
+		{"id":"d8dd77582bf15cbe","type":"file","file":"Сорта чая/_Сорта чая.md","x":-398,"y":520,"width":218,"height":230},
+		{"id":"3d1000ee37636567","type":"text","text":"Гайд на меню: ярусы, устройство, где что находится","x":-414,"y":280,"width":250,"height":60},
+		{"id":"0de35f03aec2f10b","type":"text","text":"уже начала","x":-640,"y":560,"width":160,"height":55},
+		{"id":"c629689937cfb57f","type":"file","file":"для хоста.md","x":-759,"y":110,"width":239,"height":153},
+		{"id":"2434c4d5886a592f","x":-125,"y":-173,"width":250,"height":60,"type":"text","text":"по факту"},
+		{"id":"0ecf99391918b572","x":-289,"y":-293,"width":250,"height":60,"type":"text","text":"мелкие тренировки"},
+		{"id":"a4cbffacad3df2db","x":40,"y":-293,"width":250,"height":60,"type":"text","text":"Дегустации"}
+	],
+	"edges":[
+		{"id":"22ccd279c5d900ac","fromNode":"324bd23f55823851","fromSide":"bottom","toNode":"3f4e41b5d8a8eeb2","toSide":"top"},
+		{"id":"dc5f3fda0f104ec4","fromNode":"324bd23f55823851","fromSide":"bottom","toNode":"0f59134631701f3a","toSide":"top"},
+		{"id":"b2187ae9df8bb2dd","fromNode":"0de35f03aec2f10b","fromSide":"right","toNode":"d8dd77582bf15cbe","toSide":"left"},
+		{"id":"b66084c04d770168","fromNode":"3f4e41b5d8a8eeb2","fromSide":"bottom","toNode":"6f464367ede22e20","toSide":"top"},
+		{"id":"a03a7af08fe788cf","fromNode":"6f464367ede22e20","fromSide":"left","toNode":"c629689937cfb57f","toSide":"right"},
+		{"id":"b3cfcb0e555f5cdf","fromNode":"2465942633023daf","fromSide":"bottom","toNode":"d8dd77582bf15cbe","toSide":"top"},
+		{"id":"855369a7384f155b","fromNode":"324bd23f55823851","fromSide":"top","toNode":"2434c4d5886a592f","toSide":"bottom"},
+		{"id":"d24c6e65009c4632","fromNode":"2434c4d5886a592f","fromSide":"top","toNode":"0ecf99391918b572","toSide":"bottom"},
+		{"id":"ee39c686ee80bb99","fromNode":"2434c4d5886a592f","fromSide":"top","toNode":"a4cbffacad3df2db","toSide":"bottom"}
+	]
+}

@@ -1,0 +1,327 @@
+{
+  "main": {
+    "id": "8326583b55a8e75b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5837e818a050254",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dea14b1c8b6c813",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "тест на канибала.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "тест на канибала"
+            }
+          },
+          {
+            "id": "2ff049ab52daf4c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Курсач.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Курсач"
+            }
+          },
+          {
+            "id": "ee2d598cd519588f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "источники курсовая.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "источники курсовая"
+            }
+          },
+          {
+            "id": "a5f1717254604091",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "e422d1848913bf0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мерешковский.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Мерешковский"
+            }
+          },
+          {
+            "id": "c729d60e05708553",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Федор Сологуб.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Федор Сологуб"
+            }
+          },
+          {
+            "id": "cfb8e47cedadb44c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "к сему по психологии.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "к сему по психологии"
+            }
+          },
+          {
+            "id": "7a047915b918d1d7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
+          },
+          {
+            "id": "7985bda5969b7770",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Социология конфликта.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Социология конфликта"
+            }
+          },
+          {
+            "id": "921abccb69b73047",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Акмеизм.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Акмеизм"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c7bbf7220f41632",
+    "type": "split",
+    "children": [
+      {
+        "id": "06dc9e16f027d17f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a509db58b0357275",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "a0a52b71772f4169",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "6328ff1c0354a835",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "88a4a5de3bf59877",
+    "type": "split",
+    "children": [
+      {
+        "id": "15448483bcc6bc47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "818d4148e56d68c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Библиографоведение.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Библиографоведение"
+            }
+          },
+          {
+            "id": "d3479b88d28eddf5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Библиотека на рынке услуг.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Библиотека на рынке услуг"
+            }
+          },
+          {
+            "id": "bed9e0a75e0a8f7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "18027074ebeeda85",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Библиографоведение.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Библиографоведение"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "a5f1717254604091",
+  "lastOpenFiles": [
+    "источники курсовая.md",
+    "Курсач.md",
+    "Без названия.md",
+    "позитивный тест.md",
+    "Всеобщая история.md",
+    "Акмеизм.md",
+    "В.И. Суриков.md",
+    "Социология конфликта.md",
+    "Федор Сологуб.md",
+    "к сему по психологии.md",
+    "Мерешковский.md",
+    "тест на канибала.md",
+    "История/всеобщая история/Походы викингов в Европе и Северной Америке.md",
+    "История/всеобщая история/Германия в Первой Мировой войне.md",
+    "История/всеобщая история/Скандинавские страны в XIX веке.md",
+    "История/всеобщая история/Италия в Первой Мировой войне.md",
+    "История/всеобщая история/Итальянские города в период средневековья..md",
+    "История/всеобщая история/Процесс централизации во Франции X-XIV вв..md",
+    "История/всеобщая история/Реформация в Западной Европе. М. Лютер и Ж. Кальвин.md",
+    "русская философия/Николай Бердяев.md",
+    "библиографоведение/Видовая классификация.md",
+    "библиографоведение/Виды бгф по содержанию объектов библиографирования.md",
+    "библиографоведение/_Библиографоведение.md",
+    "библиографоведение/Виды бгф по целевому и функциональному назначению.md",
+    "Возрождение (Ренессанс).md",
+    "реализм.md",
+    "русская культура",
+    "История/История России/Правители",
+    "История",
+    "История/Наполеоновские войны",
+    "социология",
+    "История/История России",
+    "всеобщая история/История России",
+    "Архив WinRAR.rar",
+    "история зарубежной литературы",
+    "история русской литературы.rar",
+    "библиографоведение/картинки/Pasted image 20240514180041.png"
+  ]
+}
